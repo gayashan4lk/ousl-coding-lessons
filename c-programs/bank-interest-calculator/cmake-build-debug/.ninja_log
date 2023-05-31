@@ -1,3 +1,9 @@
 # ninja log v5
 0	216	7072249710153459	CMakeFiles/bank_interest_calculator.dir/main.c.obj	de8aa75549ae48ef
 218	523	7072249713060928	bank_interest_calculator.exe	afebca2ba1abe6ff
+1	175	7072251544071050	CMakeFiles/bank_interest_calculator.dir/main.c.obj	de8aa75549ae48ef
+176	398	7072251546185514	bank_interest_calculator.exe	afebca2ba1abe6ff
+1	165	7072251678092571	CMakeFiles/bank_interest_calculator.dir/main.c.obj	de8aa75549ae48ef
+165	385	7072251680154834	bank_interest_calculator.exe	afebca2ba1abe6ff
+2	169	7072251780330312	CMakeFiles/bank_interest_calculator.dir/main.c.obj	de8aa75549ae48ef
+169	391	7072251782418138	bank_interest_calculator.exe	afebca2ba1abe6ff
